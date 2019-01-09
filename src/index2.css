@@ -1,0 +1,36 @@
+.second-section{
+  height: 450px;
+  width: 1250px;
+  background-color: #262626;
+  padding: 20px;
+  overflow: hidden;
+  margin-left: 100px;
+  margin-right: 100px;
+  display: flex;
+}
+
+.second-section .imgbox2{
+  margin-top: 80px;
+  flex: 0 0 0 300px;
+}
+
+.second-section .content2 {
+  width: 400px;
+  margin-top: 150px;
+  margin-left: 170px;
+  padding-right: 90px;
+}
+
+
+.second-section h1{
+  color: white;
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;;
+  font-size: 20px;
+}
+
+.second-section p {
+ font-color: white;
+ font-size: 12px;
+ font-family: Helvetica, Arial;
+}
